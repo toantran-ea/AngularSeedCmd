@@ -12,7 +12,7 @@ rm -rf .git && rm .gitignore
 
 git init 
 
-echo "=========> Almost done! Intsalling dependencies now ...."
+echo "=========> Almost done! Installing dependencies now ...."
 
 npm install && bower install 
 
